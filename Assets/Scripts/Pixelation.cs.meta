@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 319c8e59608d0438680ff7dada2d8281
+timeCreated: 1506279008
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - renderTexture: {fileID: 8400000, guid: fc8c0aff5fd874bfca534cd1e31dfdce, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
